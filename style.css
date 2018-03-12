@@ -1,0 +1,19 @@
+#pump {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+body {
+  text-align: center;
+}
+
+#knopke {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
