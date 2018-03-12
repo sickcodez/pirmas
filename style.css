@@ -1,19 +1,23 @@
-#pump {
-  width: 300px;
-  display: block;
-  margin: 0 auto;
+#oraiHeading {
+  //color: #ff7373;
+  line-height: 2.5;
+  text-align: center;
+  padding: 15px;
 }
 
-.hide {
-  visibility: hidden;
+#temp {
+  text-align: center;
+  color: #ff7373;
 }
 
-body {
+#kritul {
   text-align: center;
 }
 
-#knopke {
-  width: 300px;
-  display: block;
-  margin: 0 auto;
+#MenuItems>.btn {
+  color: red;
+}
+
+#loc {
+  text-align: center;
 }
