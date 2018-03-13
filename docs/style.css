@@ -1,0 +1,23 @@
+#oraiHeading {
+  line-height: 2.5;
+  text-align: center;
+  padding: 15px;
+}
+
+#temp {
+  text-align: center;
+  color: #ff7373;
+}
+
+#kritul {
+  text-align: center;
+}
+
+#MenuItems>.btn {
+  color: red;
+}
+
+#loc {
+  text-align: left;
+  color: blue;
+}
