@@ -1,7 +1,7 @@
 $(document).ready(() => {
   var weatherApiKey = 'b517b6cbc138e320152018382e1d1fbf';
   var weatherApiUrl = 'http://api.openweathermap.org/data/2.5/weather?q=';
-  var ipApiUrl = 'http://ip-api.com/json';
+  var ipApiUrl = 'https://ipapi.co/json/';
 
   var getWeatherData = (location) => {
     var weatherApi = weatherApiUrl + location + '&units=metric&appid=' + weatherApiKey;
