@@ -1,0 +1,15 @@
+.conditions {
+  text-align: center;
+  font-size: 100px;
+  line-height: 100px;
+  padding-bottom: 20px;
+}
+
+#location {
+  font-size: 50px;
+}
+
+#weatherCard {
+  margin: 0 auto;
+  margin-top: 20px;
+}
